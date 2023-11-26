@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Hackathon</title>
+  </head>
+  <body>
+    <header></header>
+    <main>
+      <div class="abs-wrapper">
+        <div class="rel-wrapper">
+          <canvas id="motors"></canvas>
+          <div class="buttons">
+            <button class="left-btn">←</button>
+            <button class="right-btn">→</button>
+          </div>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li class="nav_item">
+            <div class="nav_text">MOTORS</div>
+          </li>
+          <li class="nav_item">
+            <div class="nav_text">BATTERIES</div>
+          </li>
+          <li class="nav_item">
+            <div class="nav_text">STEERING WHEELS</div>
+          </li>
+          <li class="nav_item">
+            <div class="nav_text">DISPLAYS</div>
+          </li>
+        </ul>
+      </nav>
+
+      <canvas id="bg"></canvas>
+
+      <div class="right-panel"></div>
+    </main>
+
+    <script type="module" src="scripts/partsData.js"></script>
+    <script type="module" src="scripts/logoModels.js"></script>
+    <script type="module" src="scripts/carModel.js"></script>
+    <script type="module" src="scripts/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Audi Logo
+* source:	https://sketchfab.com/3d-models/audi-logo-1908484a0a644a4abd5a0408660ee2c2
+* author:	Darkoz (https://sketchfab.com/Darkoz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Audi Logo" (https://sketchfab.com/3d-models/audi-logo-1908484a0a644a4abd5a0408660ee2c2) by Darkoz (https://sketchfab.com/Darkoz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
