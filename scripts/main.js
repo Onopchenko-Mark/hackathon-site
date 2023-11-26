@@ -1,6 +1,6 @@
 import { positions } from "./logoModels";
 import processItem from "./logoModels";
-import gsap from "gsap";
+import gsap from '../node-modules/gsap/index.js';
 
 const nav_items = document.querySelectorAll(".nav_text");
 const t1 = gsap.timeline({ defaults: { duration: 0.4 } });
